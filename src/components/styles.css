@@ -1,0 +1,196 @@
+.mycomponent {
+  justify-content: center;
+}
+
+.mycomponent .img-brand {
+  position: relative;
+  width: 100%;
+}
+.mycomponent .img-brand .card-img {
+  position: absolute;
+  left: 50%;
+  right: 50%;
+  width: 30%;
+  transform: translate(-40%, -50%);
+}
+.mycomponent .medalha {
+  position: relative;
+}
+.mycomponent .medalha .img-medalha {
+  background-color: #ffffff;
+  border: 3px solid #ffffff;
+  position: absolute;
+  left: 50%;
+  right: 50%;
+  width: 10%;
+  transform: translate(-60%, 100%);
+  flex: 1 1 34px;
+}
+
+.mycomponent .text_ilustration {
+  font-size: 16px;
+  margin-top: 18%;
+}
+.row-structure {
+  margin-left: 20px;
+}
+
+body,
+main,
+div {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+.container {
+  background: #fff;
+  border: 1px solid #b7b7b7;
+  -webkit-box-shadow: 0px 0px 10px -6px rgba(0, 0, 0, 0.63);
+  -moz-box-shadow: 0px 0px 10px -6px rgba(0, 0, 0, 0.63);
+  box-shadow: 0px 0px 10px -6px rgba(0, 0, 0, 0.63);
+}
+
+.container .trace {
+  height: 5px;
+  background-color: rgb(71, 68, 68);
+  border-radius: 10px;
+  -webkit-box-shadow: 0px 0px 10px -6px rgba(0, 0, 0, 0.63);
+  -moz-box-shadow: 0px 0px 10px -6px rgba(0, 0, 0, 0.63);
+  box-shadow: 0px 0px 10px -6px rgba(0, 0, 0, 0.63);
+}
+
+.container .styles .description {
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+}
+
+.container .d-flex {
+  flex-wrap: wrap;
+}
+.container .imgs {
+  color: #fffeae;
+}
+.container .dividers {
+  width: 1px;
+  background-color: #ccc;
+}
+
+.container .text-center {
+  position: relative;
+}
+
+.icon {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  line-height: 25px;
+  text-align: center;
+  left: 50%;
+  margin-left: -12.5px;
+
+  background: #fff;
+  color: #3db2de;
+  border: 1px solid #3db2de;
+}
+
+.card-box {
+  background: #fff;
+  border: 1px solid #b7b7b7;
+  padding: 15px;
+  -webkit-box-shadow: 0px 0px 10px -6px rgba(0, 0, 0, 0.63);
+  -moz-box-shadow: 0px 0px 10px -6px rgba(0, 0, 0, 0.63);
+  box-shadow: 0px 0px 10px -6px rgba(0, 0, 0, 0.63);
+}
+
+.card-box .img-fluid {
+  width: 900px;
+}
+
+.container .d-flex .pt-4 {
+  position: relative;
+  cursor: pointer;
+}
+.container .blue {
+  content: " ";
+  display: block;
+  position: absolute;
+  height: 2px;
+  background: #2295b9;
+  width: 8%;
+  right: 85%;
+  bottom: 0px;
+}
+/*.mycomponent .logo img {
+  height: 50px;
+}
+
+.mycomponent .menu {
+  position: absolute;
+  top: 0;
+  left: 20px;
+  bottom: 0;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+}
+
+.mycomponent.shadow-mynav {
+  position: fixed;
+  background: rgba(0, 0, 0, 0.8);
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  z-index: 30;
+  height: 100%;
+}
+
+.mycomponent.shadow-mynav .mynav {
+  background: #fff;
+  width: 300px;
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  overflow: auto;
+}
+
+.mycomponent.shadow-mynav .mynav .mynav-header {
+  padding: 15px;
+}
+
+.mycomponent.shadow-mynav .mynav .mynav-header .title {
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.mycomponent.shadow-mynav .mynav .mynav-header .description,
+.mycomponent.shadow-mynav .mynav .mynav-header .extra {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 0.01em;
+}
+
+.mycomponent.shadow-mynav .mynav .mynav-body a {
+  margin-top: 10px;
+  display: block;
+  height: 46px;
+  line-height: 46px;
+  font-size: inherit;
+  font-weight: 400;
+}
+.mycomponent.shadow-mynav .mynav .mynav-body a i {
+  display: inline-block;
+  vertical-align: middle;
+  width: 60px;
+  text-align: center;
+  color: #7a2789;
+}
+*/
