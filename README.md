@@ -1,2 +1,2 @@
 # react-data_json
-Created with CodeSandbox
+projeto aonde **utiliza Json** para inseri dados para react ___renderizar___.
